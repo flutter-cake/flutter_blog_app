@@ -5,9 +5,8 @@
 
 </div>
 
-Its a Flutter app with integration of Medium Blog Feed using RSS2Json API end point. Written <a href="https://mhamzadev.medium.com/integrate-medium-blog-feed-in-flutter-app-mvc-architecture-3e0b3c90bfa3">medium article</a> for furhter details :)
-
-`https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@username`
+Its a Flutter Blog app UI. It's a demo version.
+I designed and developed this app with Flutter, Dart.
 
 ## 📱 Screenshots
 
